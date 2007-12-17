@@ -16,7 +16,6 @@ Source: http://www.phy.duke.edu/~rgb/wulfware/%{name}-%{version}.tgz
 Buildrequires: libwulf1-devel
 Buildrequires: libxml2-devel
 Buildrequires: ncurses-devel 
-Buildroot: %{_tmppath}/%{name}root
 Url: http://www.phy.duke.edu/~rgb/Beowulf/wulfstat.php
 
 %description 
