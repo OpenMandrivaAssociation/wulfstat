@@ -13,7 +13,7 @@ Release: %release
 Group: Monitoring
 License: GPL
 Source: http://www.phy.duke.edu/~rgb/wulfware/%{name}-%{version}.tgz
-Buildrequires: libwulf1-devel
+Buildrequires: libwulf-devel
 Buildrequires: libxml2-devel
 Buildrequires: ncurses-devel 
 Url: http://www.phy.duke.edu/~rgb/Beowulf/wulfstat.php
