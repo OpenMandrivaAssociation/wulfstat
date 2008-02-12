@@ -20,7 +20,6 @@ Buildroot: %{_tmppath}/%{name}root
 Url: http://www.phy.duke.edu/~rgb/Beowulf/wulfstat.php
 
 %description 
-
 wulfstat is a simple yet powerful tty (ncurses) based cluster monitoring
 tool.  It requires xmlsysd (running on each system to be monitored) to
 efficiently provide it with system and proc-derived information that is
