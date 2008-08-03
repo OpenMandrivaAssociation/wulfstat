@@ -3,7 +3,7 @@
 # below.
 %define name wulfstat
 %define version 1.0.1
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary: A beowulf/cluster/LAN monitoring tool
 
