@@ -17,7 +17,7 @@ Buildrequires: libwulf-devel
 Buildrequires: libxml2-devel
 Buildrequires: ncurses-devel 
 Buildroot: %{_tmppath}/%{name}root
-Url: http://www.phy.duke.edu/~rgb/Beowulf/wulfstat.php
+Url: https://www.phy.duke.edu/~rgb/Beowulf/wulfstat.php
 
 %description 
 wulfstat is a simple yet powerful tty (ncurses) based cluster monitoring
