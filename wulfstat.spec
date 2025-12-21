@@ -13,6 +13,7 @@ Release: %release
 Group: Monitoring
 License: GPL
 Source: http://www.phy.duke.edu/~rgb/wulfware/%{name}-%{version}.tgz
+BuildRequires:	make
 Buildrequires: libwulf-devel
 Buildrequires: libxml2-devel
 Buildrequires: ncurses-devel 
